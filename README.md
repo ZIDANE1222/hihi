@@ -1,4 +1,3 @@
-# hihi
 # Created by https://www.gitignore.io/api/osx
 # Edit at https://www.gitignore.io/?templates=osx
 
